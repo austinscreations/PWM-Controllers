@@ -7,9 +7,9 @@ Works with single color sttrips or CCT, RGB, RGBWW, RGBCCT or any combination th
 
 IDC connection and code compatible with the URC home automation system being developed by Jon Oxer of superhouse.tv
 
-<a href="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Info%20Graphic.png?raw=true"><img src="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Info%20Graphic.png?raw=true" alt="Info Graphic" width="700" height="567"/></a>
+<a href="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Info%20Graphic.png?raw=true"><img src="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Info%20Graphic.png?raw=true" alt="Info Graphic" width="400" height="324"/></a>
 
 
-<a href="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Dimensional%20Drawing.png?raw=tru"><img src="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Dimensional%20Drawing.png?raw=tru" alt="Dimensional Drawing" width="700" height="429"/></a>
+<a href="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Dimensional%20Drawing.png?raw=tru"><img src="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Dimensional%20Drawing.png?raw=tru" alt="Dimensional Drawing" width="400" height="245"/></a>
 
 2021-08-05 --- added files for Info graphic, and dimensional drawing - along with 1:1 pdf drawing. added pcb files and gerbers from first production run.
