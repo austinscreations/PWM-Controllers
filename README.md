@@ -7,7 +7,7 @@ Works with single color sttrips or CCT, RGB, RGBWW, RGBCCT or any combination th
 
 IDC connection and code compatible with the URC home automation system being developed by Jon Oxer of superhouse.tv
 
-[Infro Graphic](/Pictures/Info%20Graphic.png)
+[Info Graphic](/Pictures/Info%20Graphic.png)
 
 [Dimensional Drawing](/Pictures/Dimensional%20Drawing.png)
 
