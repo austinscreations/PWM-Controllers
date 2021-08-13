@@ -7,6 +7,8 @@ Works with single color sttrips or CCT, RGB, RGBWW, RGBCCT or any combination th
 
 IDC connection and code compatible with the URC home automation system being developed by Jon Oxer of superhouse.tv
 
+Video Demo: https://youtu.be/LjtU8Q2ln_A
+
 <a href="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Info%20Graphic.png?raw=true"><img src="https://github.com/austinscreations/PWM-LED-Controller/blob/main/Pictures/Info%20Graphic.png?raw=true" alt="Info Graphic" width="400" height="324"/></a>
 
 
